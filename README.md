@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# AI Interview Coach — Upgraded MVP
+#Interview Coach
 
 ## Features
 - Randomized questions (warmup, technical, behavioral_core)
