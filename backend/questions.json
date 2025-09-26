@@ -1,0 +1,87 @@
+{
+  "roles": {
+    "software_engineer_junior": {
+      "warmup": [
+        {
+          "id": "warm1",
+          "type": "behavioral",
+          "prompt": "Tell me about a time you faced a tight deadline."
+        },
+        {
+          "id": "warm2",
+          "type": "behavioral",
+          "prompt": "Describe a time you worked with a difficult teammate."
+        },
+        {
+          "id": "warm3",
+          "type": "behavioral",
+          "prompt": "Give an example when you took initiative to solve a problem."
+        },
+        {
+          "id": "warm4",
+          "type": "behavioral",
+          "prompt": "Tell me about a situation where you had to learn quickly."
+        },
+        {
+          "id": "warm5",
+          "type": "behavioral",
+          "prompt": "Describe a time you failed and what you learned."
+        }
+      ],
+      "technical": [
+        {
+          "id": "tech1",
+          "type": "coding",
+          "prompt": "Write a function to reverse a string."
+        },
+        {
+          "id": "tech2",
+          "type": "coding",
+          "prompt": "Find the first non-repeating character in a string."
+        },
+        {
+          "id": "tech3",
+          "type": "coding",
+          "prompt": "Implement a basic stack using an array."
+        },
+        {
+          "id": "tech4",
+          "type": "coding",
+          "prompt": "Explain time complexity of bubble sort."
+        },
+        {
+          "id": "tech5",
+          "type": "coding",
+          "prompt": "Write a function to check for palindrome."
+        }
+      ],
+      "behavioral_core": [
+        {
+          "id": "beh1",
+          "type": "behavioral",
+          "prompt": "Describe a time you disagreed with a teammate."
+        },
+        {
+          "id": "beh2",
+          "type": "behavioral",
+          "prompt": "Explain a situation where you had to handle conflict."
+        },
+        {
+          "id": "beh3",
+          "type": "behavioral",
+          "prompt": "Tell about a time you managed multiple priorities."
+        },
+        {
+          "id": "beh4",
+          "type": "behavioral",
+          "prompt": "Describe a time you received criticism and how you reacted."
+        },
+        {
+          "id": "beh5",
+          "type": "behavioral",
+          "prompt": "Give an example of when you showed leadership."
+        }
+      ]
+    }
+  }
+}

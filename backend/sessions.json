@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1758907855806,
+    "timestamp": "2025-09-26T17:30:55.806Z",
+    "payload": {
+      "question": {
+        "id": "tech3",
+        "type": "coding",
+        "prompt": "Implement a basic stack using an array."
+      },
+      "answer": "What is that"
+    }
+  },
+  {
+    "id": 1758907892845,
+    "timestamp": "2025-09-26T17:31:32.845Z",
+    "payload": {
+      "question": {
+        "id": "beh1",
+        "type": "behavioral",
+        "prompt": "Describe a time you disagreed with a teammate."
+      },
+      "answer": ""
+    }
+  }
+]
