@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Interview Coach — Upgraded MVP
 
 ## Features
@@ -20,3 +21,6 @@ npm install
 npm run dev (runs on http://localhost:5173)
 
 Enjoy your upgraded animated AI Interview Coach! 🚀
+=======
+
+>>>>>>> 53517099fba86fe31a2e2747894c781e6881a260
